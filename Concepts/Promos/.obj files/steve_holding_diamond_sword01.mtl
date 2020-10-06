@@ -1,0 +1,6 @@
+# Made in Blockbench 3.5.4
+newmtl 0
+map_Kd diamond_sword.png 
+newmtl 1
+map_Kd steve.png 
+newmtl none
